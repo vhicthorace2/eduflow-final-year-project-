@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Education Platform Backend
 
 A modern, scalable backend for an educational website built with Node.js, Express, and MySQL. This backend implements all functional and non-functional requirements including user authentication, course management, assignments, quizzes, forums, messaging, and comprehensive reporting.
@@ -373,3 +374,6 @@ ISC
 ## Support
 
 For issues and questions, please refer to the project documentation or contact the development team.
+=======
+# eduflow-final-year-project-
+>>>>>>> 5e918ddf8217d4823c9d83ff0894f9c9ef43e62e
